@@ -12,6 +12,8 @@ So Handsfree-Handwash idea was introduced. This Arduino Project is based on that
 For full tutorial -> https://create.arduino.cc/projecthub/snehiludrhj/handsfree-liquid-handwash-dispenser-436309?ref=user&ref_id=1533624&offset=1
 Promo Video -> https://www.youtube.com/watch?v=58pv1Sw96Lc
 
+<img src="https://github.com/snehiljain34/Arduino-Handsfree-Handwash-Dispenser/blob/main/IMG20200407103156.jpg" width="400" height="650" />
+
 ## License
 **MIT &copy; [Snehil Jain](https://github.com/snehiljain34/Arduino-Handsfree-Handwash-Dispenser/blob/master/LICENSE)**
 
